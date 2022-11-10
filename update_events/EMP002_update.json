@@ -1,0 +1,11 @@
+{
+    "operation": "update",
+    "EMPID": "EMP002",
+    "FirstName": "Rahul",
+    "LastName": "Kumar",
+    "DateOfJoin": "19-04-2019",
+    "Role": "Data Engineer",
+    "Department": "IT",
+    "Monthly_Salary": 45000,
+    "Contact": 9012783465
+  }

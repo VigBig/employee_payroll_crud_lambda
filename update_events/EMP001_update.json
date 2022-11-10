@@ -1,0 +1,11 @@
+{
+    "operation": "update",
+    "EMPID": "EMP001",
+    "FirstName": "John",
+    "LastName": "Smith",
+    "DateOfJoin": "20-10-2015",
+    "Role": "Markketing Analyst",
+    "Department": "Marketing",
+    "Monhtly_Salary": 75000,
+    "Contact": 8220584553
+  }

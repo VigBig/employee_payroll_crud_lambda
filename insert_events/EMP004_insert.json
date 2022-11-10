@@ -1,0 +1,10 @@
+{
+    "operation": "insert",
+    "EMPID": "EMP004",
+    "FirstName": "Vighnesh",
+    "LastName": "Bilgi",
+    "DateOfJoin": "19-04-2019",
+    "Role": "Data Analyst",
+    "Department": "IT",
+    "Monthly_Salary": 40000
+  }

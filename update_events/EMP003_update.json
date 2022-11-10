@@ -1,0 +1,11 @@
+{
+    "operation": "update",
+    "EMPID": "EMP003",
+    "FirstName": "Rahul",
+    "LastName": "Kumar",
+    "DateOfJoin": "20-07-2011",
+    "Role": "CE0",
+    "Department": "Business Development",
+    "Salary": 120000,
+    "Contact": 9988776655
+  }

@@ -1,0 +1,11 @@
+{
+    "operation": "update",
+    "EMPID": "EMP004",
+    "FirstName": "Vighnesh",
+    "LastName": "Bilgi",
+    "DateOfJoin": "19-04-2019",
+    "Role": "Business Intelligence Analyst",
+    "Department": "Business Development",
+    "Salary": 60000,
+    "Contact": 9049480396
+  }
